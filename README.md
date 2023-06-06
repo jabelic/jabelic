@@ -9,8 +9,6 @@
 <ul style="text-align:left;">
   <li> github &nbsp;&nbsp;&nbsp;:&nbsp;Jabelic</li>
   <li> Twitter &nbsp;&nbsp;:&nbsp;<a href="https://twitter.com/jabelic_">@Jabelic_</a></li>
-  <li> Scrapbox&nbsp;&nbsp;:&nbsp;<a href="https://scrapbox.io/jabelic-public/">jabelic-public</a> </li>
-   <!-- <li> belongings: @Meiji Univ. School of Interdisciplinary Mathematical Sciences, Department of Mathematical Sciences Based on Modeling and Analysis </li> -->
 </ul>
 </div>
 
