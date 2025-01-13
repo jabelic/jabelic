@@ -5,7 +5,8 @@
 
 ### Hi there 👋 I'm Jabelic
 
-Frontend developer who loves TypeScript and Vue.js 💻
+Frontend developer focused on TypeScript 💻
+
 
 #### 🛠 Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -20,6 +21,6 @@ Frontend developer who loves TypeScript and Vue.js 💻
 [![Blog Badge](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white&link=https://jabelic.hatenablog.com/)](https://webpress.jabelic.com/)
 
 #### Recent Project
-- [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/jabelic-works) Jabelic-Works
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/jabelic-works) Jabelic-Works
 
 </div>
